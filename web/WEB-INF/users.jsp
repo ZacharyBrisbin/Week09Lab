@@ -5,7 +5,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Manage Users</title>
-        <link rel="stylesheet" href="<c:url value='styles/notes.css' />" />
+        <link href="style/design.css" rel="stylesheet" type="text/css" >
     </head>
     <body>
         <h1>Manage Users</h1>
